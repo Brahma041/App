@@ -1,5 +1,5 @@
 CONTENTS OF THIS FILE 
-are mentione below
+are mentioned below
 ---------------------
 
  * Introduction
@@ -9,11 +9,4 @@ are mentione below
  * Configuration
  * Troubleshooting
 
-
-
-
-
-
-
-
-thankyou
+Thankyou
